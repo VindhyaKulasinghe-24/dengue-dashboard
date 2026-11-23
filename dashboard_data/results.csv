@@ -1,0 +1,10 @@
+Model,Family,Accuracy,Precision,Recall,F1,ROC_AUC,Train_sec
+CatBoost,Boosting,0.8502,0.7605,0.6031,0.6727,0.8995,2.829
+XGBoost,Boosting,0.8468,0.7539,0.5942,0.6645,0.898,0.6283
+Gradient Boosting,Boosting,0.8468,0.7539,0.5942,0.6645,0.8963,12.8449
+LightGBM,Boosting,0.8421,0.7379,0.5917,0.6568,0.8934,0.9551
+Random Forest,Bagging,0.8454,0.7392,0.6096,0.6681,0.8919,2.5537
+Bagging (trees),Bagging,0.8369,0.7241,0.5836,0.6463,0.8862,14.0951
+Stacking,Stacking,0.8404,0.7763,0.5268,0.6277,0.8847,8.0007
+AdaBoost,Boosting,0.8421,0.711,0.6429,0.6752,0.8696,5.4752
+Extra Trees,Bagging,0.7981,0.7854,0.2881,0.4216,0.845,1.0723

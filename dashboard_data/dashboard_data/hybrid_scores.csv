@@ -1,0 +1,5 @@
+Model,Accuracy,F1,ROC_AUC
+Random Forest only,0.845,0.668,0.892
+ANN only,0.84,0.646,0.873
+Hybrid RF + ANN,0.841,0.649,0.89
+Simple rule (no ML),0.842,0.683,0.86
